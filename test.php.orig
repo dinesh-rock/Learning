@@ -1,7 +1,9 @@
 <?php echo "called"; ?>
 <?php echo "called123"; ?>
-<<<<<<< HEAD
-<?php echo "called123232423423"; ?>
-=======
 <?php echo "called1233234"; ?>
->>>>>>> f9a7ace34caaca807e2380ef992847c8807e9630
+<<<<<<< Updated upstream
+<?php echo "demo123"; ?>
+=======
+
+<?php echo "demo"; ?>
+>>>>>>> Stashed changes
