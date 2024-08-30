@@ -1,6 +1,7 @@
 <?php echo "called"; ?>
-<<<<<<< HEAD
-<?php echo "called123455"; ?>
-=======
 <?php echo "called123"; ?>
->>>>>>> 3f46f044a1607cb0f91292bff6b566e970c01726
+<<<<<<< HEAD
+<?php echo "called123232423423"; ?>
+=======
+<?php echo "called1233234"; ?>
+>>>>>>> f9a7ace34caaca807e2380ef992847c8807e9630
