@@ -1,9 +1,10 @@
-<?php echo "called"; ?>
+<?php echo "called123"; ?>
 <?php echo "called123"; ?>
 <?php echo "called1233234"; ?>
-<<<<<<< Updated upstream
 <?php echo "demo123"; ?>
+<<<<<<< HEAD
+<?php echo "demo12213"; ?>
+<?php echo "testing revert"; ?>
 =======
-
-<?php echo "demo"; ?>
->>>>>>> Stashed changes
+<?php echo "demo12213"; ?>
+>>>>>>> main
