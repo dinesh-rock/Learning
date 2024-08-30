@@ -1,8 +1,5 @@
 <?php echo "called"; ?>
 <?php echo "called123"; ?>
-<<<<<<< HEAD
 <?php echo "called1233234"; ?>
 <?php echo "demo123"; ?>
 <?php echo "demo12213"; ?>
-=======
->>>>>>> parent of f9a7ace... Update test.php
