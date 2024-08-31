@@ -1,1 +1,1 @@
-<?php echo "rebase testing 123"; ?>
+<?php echo "indextesting"; ?>
